@@ -9,7 +9,7 @@ def read(fname):
 
 setup(
     name='myprefetch',
-    version='0.2',
+    version='0.2-1',
     description='MySQL Replication Prefetcher',
     packages=find_packages(),
     long_description=read('README.md'),
