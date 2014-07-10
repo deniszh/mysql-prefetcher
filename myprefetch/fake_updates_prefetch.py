@@ -1,4 +1,4 @@
-#!/usr/local/bin/python2.6 -Wignore::DeprecationWarning
+#!/usr/bin/python -Wignore::DeprecationWarning
 
 import argparse
 import logging

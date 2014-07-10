@@ -16,7 +16,7 @@ setup(
     license=read('LICENSE'),
     url='https://github.com/vine/mysql-prefetcher',
     install_requires=[
-        'MySQL-python<=1.2.3',
+        'MySQL-python<=1.2.5',
     ],
     include_package_data=True,
 )
